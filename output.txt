@@ -1,0 +1,24 @@
+
+Name:John 
+Average Marks:44.0 
+Max MArks:64        
+Min Marks:23 
+Grade Earned:F
+
+Name:snow 
+Average Marks:53.0 
+Max MArks:84        
+Min Marks:26 
+Grade Earned:F
+
+Name:ibrahim 
+Average Marks:75.66666666666667 
+Max MArks:98        
+Min Marks:35 
+Grade Earned:C
+
+Name:abdullah 
+Average Marks:89.0 
+Max MArks:98        
+Min Marks:78 
+Grade Earned:B
